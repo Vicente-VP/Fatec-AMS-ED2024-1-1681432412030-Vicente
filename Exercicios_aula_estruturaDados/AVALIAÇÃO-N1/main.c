@@ -1,4 +1,11 @@
-/*Nome: Vicente e Vinicius*/
+/*-------------------------------------------------------*/
+/*     FATEC-São Caetano do Sul Estrutura de Dados       */
+/*             Avaliação N1 - Parte I                    */
+/*       Objetivo: Controlar Estoque de produtos         */
+/*                                                       */
+/*           Autores: Vicente e Vinicius                 */
+/*                                        Data:02/04/2024*/
+/*-------------------------------------------------------*/
 
 
 #include <stdio.h>
