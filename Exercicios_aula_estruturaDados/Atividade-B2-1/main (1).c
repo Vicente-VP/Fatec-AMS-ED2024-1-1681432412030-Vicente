@@ -102,11 +102,13 @@ void operaAritm(Pilha * pilha, float * a, float * b, char * operador, int * coun
 
   funcUnica(pilha, a, b, operador, strCalc);
 
-      strcpy(opNaLista, &pilha->aritme[pilha->topo]);
-      sprintf(novoCalc, "%c %.2f", *operador, *a);
+      if (*count > 0){
+        strcpy(opNaLista, &pilha->aritme[pilha->topo]);
+        sprintf(novoCalc, "%c %.2f", *operador, *a);
 
-      sprintf(strCalc, "(%s) %s", opNaLista, novoCalc);
-      pushAritme(pilha,strCalc);
+        sprintf(strCalc, "(%s) %s", opNaLista, novoCalc);
+        pushAritme(pilha,strCalc);
+  }
 
 }
 
