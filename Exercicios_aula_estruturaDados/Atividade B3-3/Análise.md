@@ -31,7 +31,7 @@ Resultado da contagem de Tempo (t):
 
 - Quando o elemento está no ultimo lugar do array ou não esta o resultado do BigO é **O(n)**
 
-![Gráfico Busca Linear](../images/BuscaLinear.png)
+![Gráfico Busca Linear](./images/BuscaLinear.png)
 
 ---
 # -**Busca Linear em Ordem**
@@ -59,7 +59,7 @@ Resultado da contagem de Tempo (t):
 
 - Quando o elemento está no ultimo lugar do array ou não esta o resultado do BigO é **O(n)**
 
-![Gráfico Busca Linear em Ordem](../images/BuscaLinearOrdem.png)
+![Gráfico Busca Linear em Ordem](./images/BuscaLinearOrdem.png)
 
 ---
 
@@ -103,5 +103,5 @@ Resultado da contagem de Tempo (t):
 
 - Quando o elemento está no ultimo lugar do array ou não esta o resultado do BigO é **O(n)**
 
-![Gráfico Busca Linear em Ordem](../images/BuscaBinaria.png)
+![Gráfico Busca Linear em Ordem](./images/BuscaBinaria.png)
 
