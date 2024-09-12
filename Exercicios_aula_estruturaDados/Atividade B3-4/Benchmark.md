@@ -17,7 +17,7 @@ diferença de idade entre esses indivíduos
 seja igual ou inferior a 15 anos.</p>
 
 ## Macro da solução
- - <p style="font-size: 18px;">Loop 1 e Loop dois para organizar os dados que foram informados pelo usuário (Nome e idade)</p>
+ - <p style="font-size: 18px;">Loop 1 e Loop 2 para organizar os dados que foram informados pelo usuário (Nome e idade)</p>
  - <p style="font-size: 18px;">Loop 3 será o loop recursivo onde ele fará possiveis combinações entre as pessoas adicionadas pelo usuário. Indicando o tipo de parentesco</p>
 
 ## Feramentas e Linguagem utilizada
