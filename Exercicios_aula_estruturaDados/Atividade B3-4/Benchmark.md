@@ -21,7 +21,7 @@ seja igual ou inferior a 15 anos.</p>
  - <p style="font-size: 18px;">Loop 3 será o loop recursivo onde ele fará possiveis combinações entre as pessoas adicionadas pelo usuário. Indicando o tipo de parentesco</p>
 
 ## Feramentas e Linguagem utilizada
-<p style="font-size: 18px;">Usaremos Python para o desnvolvimento da solução deste problemas e também usaremos o VScode com IDE de desenvolvimento</p>
+<p style="font-size: 18px;">Usaremos Python para o desenvolvimento da solução deste problema e também usaremos o VScode como IDE de desenvolvimento</p>
 
 
 
