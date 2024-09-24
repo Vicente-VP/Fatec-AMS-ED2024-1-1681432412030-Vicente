@@ -13,9 +13,14 @@ for i in sorted(familia, key = familia.get):
     
 print(familia_ordem)
 
-arvore_nome = next(iter(familia_ordem))
-arvore_idade = 
+lista_familia = list(familia_ordem.items())
 
+for i in range(len(lista_familia)):
+    nome_now, idade_now = lista_familia[i]
+
+    for j in range(len(lista_familia)):
+        if i != j:
+            nome_next, idade_next = lista_familia[j]
 
 
     
